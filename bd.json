@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "Babi",
+        "email": "babi@gamil",
+        "cpf": "1564132156",
+        "profissao": "back-end",
+        "endereco": {
+            "cep": "123456789",
+            "rua": "rua moraujo",
+            "complemento": "altos",
+            "bairro": "vila velha",
+            "cidade": "fortaleza"
+        }
+    },
+    {
+        "nome": "Juliana",
+        "email": "juju@gamil",
+        "cpf": "789456123",
+        "profissao": "front-end",
+        "endereco": {
+            "cep": "789456123",
+            "rua": "rua alice",
+            "complemento": "prédio",
+            "bairro": "cidade alta",
+            "cidade": "salvador"
+        }
+    },
+    {
+        "nome": "Bira",
+        "email": "bira@gamil",
+        "cpf": "456123789",
+        "profissao": "back-end",
+        "endereco": null
+    }
+]
